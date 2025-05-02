@@ -27,7 +27,7 @@
     "@types/node": "catalog:",
     "@types/react": "catalog:e2e",
     "@types/react-dom": "catalog:e2e",
-    "prisma": "^6.7.0",
+    "prisma": "^0.1.0",
     "typescript": "catalog:",
     "wrangler": "catalog:"
   }
